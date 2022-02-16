@@ -1,0 +1,5 @@
+1.Wap to perorm validation using jQuery validation using KendoUI .
+2.Wap to make tree view menu by using below sequence.
+   Country-->State-->City
+3.write a script to perform one box to animate from left to right with increase their size & change the colour 
+   from red to green in jQuery.
